@@ -1,4 +1,7 @@
 # Notes
+## K2
+https://k2-fsa.github.io/k2/core_concepts/index.html  
+
 ## WFST 好文
 https://zhuanlan.zhihu.com/p/369054845
 
