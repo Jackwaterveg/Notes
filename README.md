@@ -3,9 +3,9 @@
 https://k2-fsa.github.io/k2/core_concepts/index.html  
 
 ### 论文，k2
-https://arxiv.org/pdf/2110.03098.pdf  
+一种新的实现ctc的WFST： https://arxiv.org/pdf/2110.03098.pdf  
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746579  
-https://arxiv.org/pdf/2203.15614.pdf  
+Integrate Lattice-Free MMI into End-to-End Speech Recognition：https://arxiv.org/pdf/2203.15614.pdf  
 
 
 ## CTC 相关
