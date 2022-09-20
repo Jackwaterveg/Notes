@@ -17,3 +17,6 @@ https://zhuanlan.zhihu.com/p/369054845
 
 ## python 语法好文
 http://c.biancheng.net/view/2270.html
+
+## 安装 docker 的文章
+让docker可以使用GPU: https://blog.csdn.net/nana1253431195/article/details/126481490
